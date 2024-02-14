@@ -1,27 +1,33 @@
-# Mathematical Functions Program
+# Assignment - 01 : Various Linear and Non-linear function implementation
 
 This Python program calculates and displays values of 'y' for various mathematical functions with 'x' as an independent variable having values [-10, 10, step_size = 0.1].
 
 ## Functions Implemented
 
 1. **Linear Function**
+
    - Formula: y = wx + b
    - Parameters: 'w' (slope), 'b' (intercept)
 
 2. **Quadratic Function**
+
    - Formula: y = x^2
 
 3. **Sigmoid Function**
+
    - Formula: y = 1 / (1 + e^(-x))
 
 4. **Hyperbolic Tangent Function**
+
    - Formula: y = (e^x - e^(-x)) / (e^x + e^(-x))
 
 5. **Composite Function 1**
+
    - Formula: y = g(f(x))
    - Where u = f(x) = wx + b and g(u) = 1 / (1 + e^(-u))
 
 6. **Composite Function 2**
+
    - Formula: y = g(f(x))
    - Where f(x) = wx + b, u = f(x), and g(u) = (e^u - e^(-u)) / (e^u + e^(-u))
 
