@@ -1,4 +1,4 @@
-# Assignment - 03 : Implement a simple deep neural network (DNN) for solving the polynomial y = 5x^3 + 8x^2 - 7x  + 1 with the following specifications:
+# Assignment - 03 : Implement a simple deep neural network (DNN) for solving the polynomial y = 5x^3 - 8x^2 - 7x  + 1 with the following specifications:
 
 (a) Use three hidden-layers of sizes 32, 64, and 128 and display the generated DNN with the required number of parameters.
 
